@@ -4,3 +4,5 @@ I'm a BSIT 2 college student, still a noob in programming
 * [Saycon-BSIT-2](https://github.com/HNUSAYCON)
 ## Sample code
 printf("Hello World");
+## How To Install
+* Step 1: Download the zip file or use git clone
