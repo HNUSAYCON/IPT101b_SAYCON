@@ -1,1 +1,6 @@
-# IPT101b_SAYCON
+# "Saycon's Project"
+I'm a BSIT 2 college student, still a noob in programming
+## Author
+* [Saycon-BSIT-2](https://github.com/HNUSAYCON)
+## Sample code
+printf("Hello World");
