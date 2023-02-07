@@ -10,3 +10,6 @@ printf("Hello World");
 * Step 3: Second Commit
 
 commit1
+commit2
+
+new commit1
