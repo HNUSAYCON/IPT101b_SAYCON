@@ -6,3 +6,5 @@ I'm a BSIT 2 college student, still a noob in programming
 printf("Hello World");
 ## How To Install
 * Step 1: Download the zip file or use git clone
+* Step 2:
+* Step 3:
