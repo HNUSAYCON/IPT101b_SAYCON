@@ -9,6 +9,4 @@ printf("Hello World");
 * Step 2: First Commit
 * Step 3: Second Commit
 
-First Commit
-Second Commit
-Third Commit
+commit1
