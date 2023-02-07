@@ -13,3 +13,4 @@ commit1
 commit2
 
 new commit1
+new commit2
