@@ -1,5 +1,5 @@
 # "Saycon's Project"
-I'm a BSIT 2 college student, still a noob in programming
+Just for fun and learning!
 ## Author
 * [Saycon-BSIT-2](https://github.com/HNUSAYCON)
 ## Sample code
